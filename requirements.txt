@@ -1,0 +1,22 @@
+blinker @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_50ofyjh0pb/croot/blinker_1737448732393/work
+Bottleneck @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_33wnmqdh9g/croot/bottleneck_1731058648266/work
+click @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_fdbzzxkwu5/croot/click_1744271643020/work
+Flask @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_cfi86723k0/croot/flask_1737454311635/work
+greenlet @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_a6r9b0ikr4/croot/greenlet_1733860079251/work
+itsdangerous @ file:///Users/builder/cbouss/buildout/croot/itsdangerous_1732934745679/work
+Jinja2 @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f4xtf61_ib/croot/jinja2_1741715270435/work
+MarkupSafe @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_76vhch455b/croot/markupsafe_1738584048225/work
+numexpr @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/numexpr_1731706658483/work
+numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_32_ftq5mxa/croot/numpy_and_numpy_base_1747238033824/work/dist/numpy-2.2.5-cp313-cp313-macosx_10_15_x86_64.whl#sha256=efee940ef9a83e60fdc91960bd79ddc542602c4a278b80b0fa7a65a909f22c5d
+pandas @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_d6o0iypzho/croot/pandas_1732735102618/work/dist/pandas-2.2.3-cp313-cp313-macosx_10_15_x86_64.whl#sha256=2ef48dcabc48020c306097c5a1b12e25a7ed5e97ad5001b6be3e9b04c16756ef
+psycopg2 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d8nn3ppdrz/croot/psycopg2_1744919800859/work
+python-dateutil @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/python-dateutil_1728593996450/work
+python-dotenv @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_24h2fgtppg/croot/python-dotenv_1745610245936/work
+pytz @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pytz_1728595515863/work
+setuptools==72.1.0
+six @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2e3n1z57yz/croot/six_1744271514562/work
+SQLAlchemy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_8505aiaior/croot/sqlalchemy_1745854531934/work
+typing_extensions @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_6dn2s8ln8g/croot/typing_extensions_1734714858107/work
+tzdata @ file:///croot/python-tzdata_1746123641790/work
+Werkzeug @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_feipt8snyf/croot/werkzeug_1737448724848/work
+wheel==0.45.1

@@ -1,0 +1,10 @@
+name: zoho-leads
+channels:
+  - defaults
+dependencies:
+  - flask
+  - pandas
+  - psycopg2
+  - python-dotenv
+  - flask-sqlalchemy
+prefix: /opt/miniconda3/envs/zoho-leads
