@@ -10,6 +10,9 @@ class Location(db.Model):
     __tablename__ = 'locations'
     id = db.Column(db.Integer, primary_key=True)
     region = db.Column(db.String)
+    country = db.Column(db.String)
+    state = db.Column(db.String)
+    city = db.Column(db.String)
 
 
 # Company size category
