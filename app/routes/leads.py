@@ -1,6 +1,6 @@
 from flask import Blueprint, request, jsonify
 from app.models import db, Lead
-from utils.csv_parser import parse_csv
+from app.utils.csv_parser import parse_csv
 
 bp = Blueprint("leads", __name__)
 
